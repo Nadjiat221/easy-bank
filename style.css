@@ -117,6 +117,7 @@ nav{
     margin-top: 150px;
     gap: 50px;
     padding-bottom: 50px;
+    
 }
 .box1 h1{
     font-family: 'Barlow', sans-serif;
@@ -184,6 +185,9 @@ nav{
     font-family: 'Fraunces', serif;
     font-family: 'Public Sans', sans-serif;
     font-size: 12px;
+}
+.box4 img{
+    border-radius: 20px;
 }
 .container{
  margin-left: 60px;
